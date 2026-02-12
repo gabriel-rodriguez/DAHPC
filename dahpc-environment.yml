@@ -1,0 +1,20 @@
+name: dahpc-2026
+channels:
+    - conda-forge
+dependencies:
+    - pandas-datareader
+    - basemap
+    - basemap-data-hires
+    - ipython
+    - jupyter
+    - jupyterlab
+    - scipy
+    - pandas
+    - xlrd
+    - sqlalchemy
+    - seaborn
+    - dask
+    - graphviz
+    - python-graphviz
+    - scikit-learn
+    - openpyxl
