@@ -2,9 +2,9 @@ name: dahpc-2026
 channels:
     - conda-forge
 dependencies:
-    - pandas-datareader
     - basemap
     - basemap-data-hires
+    - geopandas
     - ipython
     - jupyter
     - jupyterlab
@@ -18,3 +18,4 @@ dependencies:
     - python-graphviz
     - scikit-learn
     - openpyxl
+    - yfinance
